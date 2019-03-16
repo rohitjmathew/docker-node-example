@@ -1,6 +1,10 @@
 # docker-node-example
 An Express Application to Display how to Dockerize any Node Application
 
+## Prerequisites
+Node installed on your system
+
+
 ## How to setup
 - Clone the repository to your local device.
 - Run ```npm install```
