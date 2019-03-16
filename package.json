@@ -1,0 +1,14 @@
+{
+  "name": "docker-node-example",
+  "version": "1.0.0",
+  "description": "An express application to display how to dockerize any node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit Mathew",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
