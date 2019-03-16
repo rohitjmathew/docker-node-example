@@ -10,3 +10,6 @@ An Express Application to Display how to Dockerize any Node Application
 
 ## To Setup docker
 To setup docker follow [this]()
+
+## To run the Dockerized Service
+Type ```docker run -p 8081:8081 --name docker-node-example -d docker-node-example``` and the service will be running. To check it visit http://localhost:8081/
