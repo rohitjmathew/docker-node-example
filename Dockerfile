@@ -1,6 +1,6 @@
 FROM node:8-alpine
 
-LABEL maintainer="Rohit Mathew, rohit.mathew@turtlemint.com"
+LABEL maintainer="Rohit Mathew"
 
 # Sets environment variable
 ENV NODE_ENV production
